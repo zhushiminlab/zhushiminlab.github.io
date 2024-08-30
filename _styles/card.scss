@@ -6,9 +6,9 @@
   justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  width: 350px;
+  width: 460px;
   max-width: calc(100% - 20px - 20px);
-  margin: 20px;
+  margin: 10px;
   background: var(--background);
   border-radius: var(--rounded);
   overflow: hidden;
@@ -17,13 +17,14 @@
 }
 
 .card[data-style="small"] {
-  width: 250px;
+  width: 310px;
 }
 
 .card-image img {
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
   width: 100%;
+  margin-top: 20px;
   // box-shadow: var(--shadow);
 }
 
@@ -32,21 +33,26 @@
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
   max-width: 100%;
-  padding: 20px;
+  padding: 15px;
 }
-
+.card-text p {
+  line-height: 1.8; /* 调整文本行间距 */
+  font-size: 15px;
+}
 .card-text > * {
   margin: 0 !important;
 }
 
 .card-title {
+  font-size: 25px;
   font-family: var(--heading);
   font-weight: var(--semi-bold);
 }
 
 .card-subtitle {
+  font-size: 20px;
   margin-top: -10px !important;
-  font-style: italic;
+
 }

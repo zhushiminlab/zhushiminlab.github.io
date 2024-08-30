@@ -1,47 +1,64 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: PC-SMILE
+  subtitle: 親子同行：成長型思維培養課程
   group: featured
-  image: images/photo.jpg
+  image: images/PC-SMILE.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:
+    Parent-Child Single-Session Growth Mindset Intervention (PC-SMILE) is designed to equip parent and children with growth mindset to better adaptation to challenge in secondary school life.<br>
+    「親子同行：成長型思維培養課程」的設計理念旨在幫助家長和學生了解、學習成長心態，更好面對中學生活中的新挑戰。
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: SIGMA
+  subtitle: 至簡心態課程
   group: featured
-  image: images/photo.jpg
+  image: images/SIGMA.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:
+    Single-session Intervention of Growth Mindset for Adolescents (SIGMA) is a series of single-session interventions designed to reduce general anxiety symptoms in secondary school students.<br>
+    「至簡心態課程」旨在幫助中學生減輕常見的焦慮症狀。課程內容包括了神經可塑性的科學知識、貼近中學生體驗的真實故事。
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: U-SIGMA
+  subtitle: 至簡心態課程-大學版
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:
+    <br>Single-session Intervention of Growth Mindset for Anxiety for University Students is a university version of single-session intervention that aims to enhance adaptive coping and help-seeking for mental health needs in university students.<br>
+    「至簡心態課程-大學版」改編自青少年版本，旨在提升大學生的適應能力，並鼓勵他們在有心理健康需求時積極尋求幫助。
+
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: SPSxSIGMA
+  subtitle:
+    生命熱線「樂TEEN校園計劃」<br>
+    之理大「至簡心態課程」
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:
+    As part of the Filling lives with JOY by SPS, SIGMA serve as the first phrase mental health promotion to general students. Students can sign up the service of SPS after finishing the SIGMA intervention.<br>
+    作為生命熱線「樂TEEN校園計劃」的一部分，「至簡心態課程」是大學生心理健康推廣的第一階段。學生在完成課程後可以註冊使用生命熱線的服務。
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: We-SMILE
+  subtitle: 實習心態單次介入課程
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:
+    <br>
+    Web-based Single-session Intervention of Mindset on Intelligence, Failure, and Emotion (We-SMILE) aims to prepare practicum trainees to embrace challenges and difficulties in fieldwork study.<br>
+    「實習心態單次介入課程」聚焦於幫助社會工作和諮商實習生擁抱實習中的挑戰和困難。<br>
+    &nbsp;
+
+
   repo: greenelab/lab-website-template
   tags:
     - software
