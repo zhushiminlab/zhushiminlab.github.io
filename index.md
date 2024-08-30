@@ -2,7 +2,7 @@
 ---
 
 # Believe in Change
-Introduction to the LAB：Digital Health Service Lab<br>
+Digital Health Service Lab<br>
 The Zhu Shimin’s Lab consist of a group of passionate students and post-doc and research assistants. Our lab has trained over 50 people who will always remain part of th extended Zhu Lab family. We examine the longitudinal development of youth positive attributes and mental health and problem beheviours. The research team explore modifiable factors and develop prevention and interventions programmes. The design team include artists, digital designer, and product designer. The lab has a wide consultant team, including intervention related stakeholders, such as social workers, counsellors, school teachers, and youth advisory group.
 
 數字健康服務實驗室簡介：<br>
