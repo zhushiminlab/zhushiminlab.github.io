@@ -39,7 +39,7 @@ The Zhu Shimin’s Lab consist of a group of passionate students and post-doc an
 
 {% capture text %}
 
-<div style="text-align: center;">更多關於我們的發表請點擊此處。</div>
+<div style="text-align: center;">了解更多關於我們的發表請點擊此處。</div>
 
 
 {%
@@ -65,7 +65,8 @@ The Zhu Shimin’s Lab consist of a group of passionate students and post-doc an
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<div>了解更多關於我們的成員請點擊此處。</div>
+
 
 {%
   include button.html
@@ -80,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/teams.png"
   link="team"
   title="Our Team"
   text=text

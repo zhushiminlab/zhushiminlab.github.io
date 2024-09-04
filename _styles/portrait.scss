@@ -12,7 +12,7 @@
   align-items: center;
   flex-direction: column;
   margin: 20px;
-  width: 175px;
+  width: 230px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
@@ -28,6 +28,7 @@
   text-align: left;
 }
 
+/*
 .portrait .icon {
   position: absolute;
   left: 0;
@@ -51,6 +52,7 @@
 .portrait[data-style="tiny"] .icon {
   display: none;
 }
+ */
 
 .portrait-image {
   width: 100%;
@@ -62,7 +64,7 @@
 }
 
 .portrait[data-style="tiny"] .portrait-image {
-  width: 50px;
+  width: 100px;
   margin: 0;
 }
 
