@@ -9,7 +9,7 @@
   align-items: center;
   flex-direction: column;
   margin: 20px;
-  width: 175px;
+  width: 230px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
@@ -25,6 +25,7 @@
   text-align: left;
 }
 
+/*
 .portrait .icon {
   position: absolute;
   left: 0;
@@ -33,22 +34,22 @@
   justify-content: center;
   align-items: center;
   width: calc(20px + 10%);
-  aspect-ratio: 1/1;
+  aspect-ratio: 1 / 1;
   border-radius: 999px;
   background: var(--background);
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
 }
 
-.portrait[data-style=small] .icon {
+.portrait[data-style="small"] .icon {
   left: -2px;
   top: -2px;
 }
 
-.portrait[data-style=tiny] .icon {
+.portrait[data-style="tiny"] .icon {
   display: none;
 }
-
+ */
 .portrait-image {
   width: 100%;
   margin-bottom: 20px;
@@ -59,7 +60,7 @@
 }
 
 .portrait[data-style=tiny] .portrait-image {
-  width: 50px;
+  width: 100px;
   margin: 0;
 }
 

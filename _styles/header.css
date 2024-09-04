@@ -3,7 +3,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 25px;
   padding: 10px;
   box-shadow: var(--shadow);
   position: sticky !important;
@@ -39,7 +39,7 @@ header a {
   justify-content: flex-start;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 10px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
@@ -50,8 +50,7 @@ header a {
 }
 
 .subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  font-weight: var(--regular);
 }
 
 .nav-toggle {
@@ -86,7 +85,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 25px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
@@ -129,6 +128,7 @@ header[data-big] .home {
 }
 header[data-big] .logo {
   height: 150px;
+  padding-bottom: 15px;
 }
 header[data-big] .title-text {
   flex-direction: column;
@@ -136,7 +136,8 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: var(--xxl);
+  font-size: 50px;
+  color: darkolivegreen;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
