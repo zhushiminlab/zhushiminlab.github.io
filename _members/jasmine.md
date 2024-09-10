@@ -1,8 +1,8 @@
 ---
-name: Dr.Shimin Zhu
+name: 朱詩敏博士<br/>Jasmine
 image: images/zhushimin.png
 role: pi
-affiliation: The Hong Kong Polytechnic University
+
 aliases:
   - Jasmine Zhu
   - Jasmine Zhu
