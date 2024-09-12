@@ -1,6 +1,6 @@
 ---
 name: 陳詩韻<br/>Lydia
-image: images/shiyun.png
+image: images/shiyun.jpg
 role: phd
 group: alum
 links:
