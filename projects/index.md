@@ -10,9 +10,7 @@ nav:
 <center>Our projects care about children and adolescents' mental health.</center>
 <center>我們的項目致力於兒童與青少年心理健康關懷。</center>
 
-{% include tags.html tags="publication, resource, website" %}
 
-{% include search-info.html %}
 
 {% include section.html %}
 
