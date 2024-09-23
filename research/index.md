@@ -7,15 +7,14 @@ nav:
 
 # Our Publications
 
-<center>Our publications are about children and adolescents' mental health.</center>
+<center>
+Our publications are about children and adolescents' mental health.<br/>
+我們的文章致力於青少年的心理健康關懷。
+</center>
 
 {% include section.html %}
 
-## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
