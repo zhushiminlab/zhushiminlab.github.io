@@ -12,7 +12,7 @@ Parent-Child Single-Session Growth Mindset Intervention (PC-SMILE) <br/>
 This project is designed to equip parent and children with growth mindset to better adapt to challenges in secondary school life.
 
 「親子同行：成長型思維培養課程」<br/>
-本項目旨在幫助家長和學生了解、學習成長心態，從而更好應對中學生活中的挑戰。
+本課程旨在幫助家長和學生了解、學習成長心態，從而更好應對中學生活中的挑戰。
 
 ## Photos 照片
 <center> 

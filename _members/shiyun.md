@@ -1,5 +1,5 @@
 ---
-name: 陳詩韻<br/>Lydia
+name: 陳詩韻<br/>Shiyun Chen
 image: images/shiyun.jpg
 role: phd
 group: alum

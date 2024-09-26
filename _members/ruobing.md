@@ -1,5 +1,5 @@
 ---
-name: 王若冰<br/>Ruby
+name: 王若冰<br/>Ruobing Wang
 image: images/Ruobing.png
 role: designer
 group: alum

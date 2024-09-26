@@ -1,5 +1,5 @@
 ---
-name: 胡雨晞<br/>Starry
+name: 胡雨晞<br/>Yuxi Hu
 image: images/starry.png
 role: phd
 group: alum

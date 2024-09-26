@@ -7,25 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<center>Please feel free to contact with the following information.<br/>
+您可以通過以下方式找到我們<br>
+</center>
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jasmine.zhu@polyu.edu.hk"
+  link="jasmine.zhu@polyu.edu.hk"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+852 2766 5787"
+
 %}
 {%
   include button.html
   type="address"
+  text="GH348"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}

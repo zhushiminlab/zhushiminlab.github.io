@@ -1,5 +1,5 @@
 ---
-name: 朱詩敏博士<br/>Jasmine
+name: 朱詩敏博士<br/>Shimin Zhu
 image: images/zhushimin.png
 role: pi
 

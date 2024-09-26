@@ -1,5 +1,5 @@
 ---
-name: 席安<br/>Jamie
+name: 席安<br/>An Xi
 image: images/jamie.png
 role: postgrade
 group: alum
