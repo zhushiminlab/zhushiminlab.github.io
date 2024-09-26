@@ -11,10 +11,11 @@
   box-shadow: var(--shadow);
 }
 
-.citation-image {
+/*.citation-image {
   position: relative;
-  width: 180px;
+  width: $thumb-size;
   flex-shrink: 0;
+  // box-shadow: var(--shadow);
 }
 
 .citation-image img {
@@ -24,7 +25,7 @@
   height: 100%;
   object-fit: contain;
 }
-
+*/
 .citation-text {
   position: relative;
   display: inline-flex;
