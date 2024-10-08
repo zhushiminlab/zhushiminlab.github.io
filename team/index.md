@@ -13,6 +13,7 @@ Our lab has trained over 50 people who will always remain part of th extended Zh
 
 {% include section.html %}
 
+
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 
@@ -26,4 +27,18 @@ Our lab has trained over 50 people who will always remain part of th extended Zh
 
 {% endcapture %}
 
+
 {% include grid.html style="square" content=content %}
+
+
+
+<h2>Special Contributors</h2>
+
+Here are some special contributors to our lab's success, whose efforts have been invaluable over the years:
+
+<ul>
+    <li>Voice Actress: 江銘珊 Kong Ming Shan Emma</li>
+    <li>Research Assistant: 莊燕瓊 Zhuang Yanqiong</li>
+    <li>Student Helpers: 林灝賢 Lam Ho Yin，張子希 Cheung Tsz Hei，李庭軒 Li Ting Hin</li>
+
+</ul>
