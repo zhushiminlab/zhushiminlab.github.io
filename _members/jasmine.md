@@ -1,7 +1,7 @@
 ---
-name: 朱詩敏博士<br/>Shimin Zhu
+name: 朱詩敏博士 Dr.Shimin Zhu
 image: images/zhushimin.png
-role: pi
+role: ld
 
 aliases:
   - Jasmine Zhu

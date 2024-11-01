@@ -23,7 +23,12 @@ This project is designed to equip parent and children with growth mindset to bet
 </center>
 
 ## Take part in our intervention 參加課程
+<!--
 [Click here to take the parent version survey  
 點擊此處參與父母版課程](https://hkpuhealthandsocial.au1.qualtrics.com/jfe/form/SV_6flZShlGWSyv0mG) <br/>
 [Click here to take the parent version survey  
 點擊此處參與學生版課程](https://hkpuhealthandsocial.au1.qualtrics.com/jfe/form/SV_6KDmWgWi7SoP7dY)
+-->
+If you want to take part in our intervention, please contact us.<br/>
+如果您有意願參與我們的課程，請聯繫我們。<br/>
+Email: growth.mindset.polyu@gmail.com

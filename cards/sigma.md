@@ -25,5 +25,7 @@ The interventions include videos and exercises on scientific knowledge about neu
 </center>
 
 ## Take part in our intervention 參加課程
-[Click here to take the parent version survey  
-點擊此處參與課程]() <br/>
+If you want to take part in our intervention, please contact us.<br/>
+Email: growth.mindset.polyu@gmail.com
+如果您有意願參與我們的課程，請聯繫我們。<br/>
+郵箱：growth.mindset.polyu@gmail.com

@@ -24,5 +24,6 @@ U-SIGMA is a university version of single-session intervention that aims to enha
 </center>
 
 ## Take part in our intervention 參加課程
-[Click here to take the parent version survey  
-點擊此處參與課程](https://hkpuhealthandsocial.au1.qualtrics.com/jfe/form/SV_1G3t9uhZwnk0m4m) <br/>
+If you want to take part in our intervention, please contact us.<br/>
+如果您有意願參與我們的課程，請聯繫我們。<br/>
+Email: growth.mindset.polyu@gmail.com

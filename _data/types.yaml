@@ -2,23 +2,23 @@
 
 # team member roles
 
-pi:
-  description: Principal Investigator
+ld:
+  description: Lab Director<br>實驗室導師
 
 postdoc:
-  description: Postdoctoral Researcher
+  description: Postdoctoral Researcher<br>博士後研究員
 
 phd:
-  description: PhD Student
+  description: PhD Student<br>博士研究生
 
 postgrade:
-  description: Postgraduate Student
+  description: Postgraduate Student<br>碩士研究生
 
 programmer:
   description: Programmer
 
 designer:
-  description: Designer
+  description: Designer<br>設計師
 
 mascot:
   icon: fa-solid fa-dog

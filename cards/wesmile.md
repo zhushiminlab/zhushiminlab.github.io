@@ -25,5 +25,6 @@ We-SMILE aims to prepare practicum trainees to embrace challenges and difficulti
 </center>
 
 ## Take part in our intervention 參加課程
-[Click here to take the parent version survey  
-點擊此處參與課程]() <br/>
+If you want to take part in our intervention, please contact us.<br/>
+如果您有意願參與我們的課程，請聯繫我們。<br/>
+Email: growth.mindset.polyu@gmail.com

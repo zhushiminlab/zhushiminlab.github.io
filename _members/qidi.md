@@ -1,5 +1,5 @@
 ---
-name: 齊迪<br/>Di Qi
+name: 齊迪Di Qi
 image: images/Qidi.png
 role: postdoc
 group: alum
