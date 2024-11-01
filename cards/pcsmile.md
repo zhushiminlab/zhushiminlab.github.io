@@ -14,6 +14,11 @@ This project is designed to equip parent and children with growth mindset to bet
 「親子同行：成長型思維培養課程」<br/>
 本課程旨在幫助家長和學生了解、學習成長心態，從而更好應對中學生活中的挑戰。
 
+## Watch Our Introduction Video 觀看介紹視頻
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/7rSL2A_q4Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
 ## Photos 照片
 <center> 
 
