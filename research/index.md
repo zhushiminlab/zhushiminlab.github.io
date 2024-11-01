@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 2
-  tooltip: Our publications
+  tooltip: 論文發表
 ---
 
 # Our Publications

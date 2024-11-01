@@ -1,5 +1,5 @@
 ---
-name: 王永怡 Yongyi Wang
+name: Yongyi Wang<br> 王永怡
 image: images/yongyi.jpg
 role: phd
 group: alum

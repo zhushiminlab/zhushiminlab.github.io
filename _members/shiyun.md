@@ -1,5 +1,5 @@
 ---
-name: 陳詩韻 Shiyun Chen
+name: Shiyun Chen<br>陳詩韻
 image: images/shiyun.jpg
 role: phd
 group: alum

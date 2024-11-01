@@ -1,5 +1,5 @@
 ---
-name: 胡雨晞 Yuxi Hu
+name: Yuxi Hu<br>胡雨晞
 image: images/starry.png
 role: phd
 group: alum

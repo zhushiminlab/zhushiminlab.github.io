@@ -1,5 +1,5 @@
 ---
-name: 王若冰 Ruobing Wang
+name: Ruobing Wang<br>王若冰
 image: images/Ruobing.png
 role: designer
 group: alum

@@ -81,7 +81,7 @@ The Zhu Shimin’s Lab consist of a group of passionate students and post-doc an
 
 {%
   include feature.html
-  image="images/teams.png"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
