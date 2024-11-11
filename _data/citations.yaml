@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1108/PIJPSM-12-2023-0176
+  title: 'Predictors and mediators of work-related stress among Hong Kong police officers:
+    a quantitative secondary survey data analysis'
+  authors:
+  - Yuen-kiu Cheung
+  - Jessica C.M. Li
+  - Shimin Zhu
+  publisher: 'Policing: An International Journal'
+  date: '2024-07-10'
+  link: https://doi.org/g223tk
+  orcid: 0000-0003-3428-0234
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2196/63220
   title: 'Effects of a Parent-Child Single-Session Growth Mindset Intervention on
     Adolescent Depression and Anxiety Symptoms: Protocol of a 3-Arm Waitlist Randomized
@@ -23,19 +36,6 @@
   description: Using a 3-arm randomized controlled trial, this study will examine
     the effectiveness of PC-SMILE in reducing depression and anxiety symptoms among
     children.
-- id: doi:10.1108/PIJPSM-12-2023-0176
-  title: 'Predictors and mediators of work-related stress among Hong Kong police officers:
-    a quantitative secondary survey data analysis'
-  authors:
-  - Yuen-kiu Cheung
-  - Jessica C.M. Li
-  - Shimin Zhu
-  publisher: 'Policing: An International Journal'
-  date: '2024-07-10'
-  link: https://doi.org/g223tk
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.2196/preprints.63500
   title: 'Effects of web-based single-session growth mindset interventions for reducing
     adolescent anxiety: A four-armed randomised controlled trial (Preprint)'
