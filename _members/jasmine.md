@@ -1,5 +1,5 @@
 ---
-name: Dr.Shimin Zhu<br>朱詩敏博士
+name: Dr.Shimin Zhu <br>朱詩敏博士
 image: images/zhushimin.png
 role: ld
 

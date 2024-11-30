@@ -37,8 +37,8 @@ Our lab has trained a group of people who will always remain part of th extended
 Here are some special contributors to our lab's success, whose efforts have been invaluable over the years:
 
 <ul>
-    <li>Voice Actress配音員: Kong Ming Shan Emma 江銘珊 </li>
-    <li>Research Assistant研究助理: Zhuang Yanqiong 莊燕瓊</li>
-    <li>Student Helpers學生助理: Lam Ho Yin 林灝賢，Cheung Tsz Hei 張子希，Li Ting Hin 李庭軒</li>
+    <li>Voice Actress 配音員: Kong Ming Shan Emma 江銘珊 </li>
+    <li>Research Assistant 研究助理: Zhuang Yanqiong 莊燕瓊</li>
+    <li>Student Helpers 學生助理: Lam Ho Yin 林灝賢，Cheung Tsz Hei 張子希，Li Ting Hin 李庭軒</li>
 
 </ul>
