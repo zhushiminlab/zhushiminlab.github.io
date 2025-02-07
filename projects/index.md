@@ -11,20 +11,7 @@ nav:
 <center>我們的項目致力於提升兒童與青少年的精神健康，目前已被應用於香港近三十所中小學、大學的青、少年兒童心理健康關懷。</center>
 
 <!--
-## Our Collaboration Schools
 
-<center>
-
-<iframe 
-    src="https://www.google.co.nz/maps/d/u/0/embed?mid=1N5hPEUkjGoZzk89IzUif1IzltVynjIM&ehbc=2E312F&noprof=1" 
-    width="800" 
-    height="600" 
-    style="border:0; border-radius: 15px;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-</center>
 -->
 
 {% include section.html %}
