@@ -1,7 +1,7 @@
 ---
 name: Ruobing Wang<br>王若冰
 image: images/Ruobing.png
-role: designer
+role: design
 group: alum
 links:
  
