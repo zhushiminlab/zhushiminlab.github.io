@@ -16,6 +16,9 @@
 
 .card[data-style=small] {
   width: 310px;
+  min-height: 400px; /* 设定统一最小高度 */
+  display: inline-flex;
+  flex-direction: column;
 }
 
 .card-image img {
