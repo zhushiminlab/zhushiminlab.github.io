@@ -9,12 +9,10 @@ permalink: /cards/sigma/
 
 ## Project Overview 項目介紹
 
-Single-session Intervention of Growth Mindset for Adolescents (SIGMA)<br/>
-This project is a series of single-session interventions designed to reduce general anxiety symptoms in secondary school students.<br/>
-The interventions include videos and exercises on scientific knowledge about neuroplasticity, stories and testimonials on peer’s experiences.   
+Single-session Intervention of Growth Mindset for Adolescents (SIGMA)
+The project aims to alleviate common anxiety symptoms among secondary school students. The project content covers engaging scientific knowledge about neuroplasticity, real-life stories pertinent to students’ experiences, and practical methods for regulating emotions and mindsets.
 
-「至簡心態課程」<br/>
-本課程的設計理念與目標旨在幫助中學生減輕常見的焦慮症狀。課程內容包括了神經可塑性的科學知識、貼近中學生體驗的真實故事。
+「至簡心態項目」旨在幫助中學生減輕常見的焦慮症狀。項目內容包括了具有趣味性的神經可塑性科學知識，貼近中學生體驗的真實故事，以及調節心態的具體方法。
 
 ## Photos 照片
 <center> 
@@ -24,8 +22,7 @@ The interventions include videos and exercises on scientific knowledge about neu
 
 </center>
 
-## Take part in our intervention 參加課程
-If you want to take part in our intervention, please contact us.<br/>
+## Participating in the Project 參與項目
+If you are interested in participating in our project, please contact us.<br>
+如果您有意願參與我們的項目，請聯繫我們。<br>
 Email: growth.mindset.polyu@gmail.com
-如果您有意願參與我們的課程，請聯繫我們。<br/>
-郵箱：growth.mindset.polyu@gmail.com
