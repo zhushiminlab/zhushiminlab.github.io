@@ -13,6 +13,7 @@ Our lab has trained a group of people who will always remain part of th extended
 
 {% include section.html %}
 
+<h2>Core Members 核心成員</h2>
 
 {% include list.html data="members" component="portrait" filters="role: ld" %}
 
@@ -32,13 +33,14 @@ Our lab has trained a group of people who will always remain part of th extended
 
 
 
-<h2>Special Contributors</h2>
+<h2>Special Contributors 特別貢獻者</h2>
 
-Here are some special contributors to our lab's success, whose efforts have been invaluable over the years:
+<div style="text-align: left;"> Here are some special contributors to our lab's success, whose efforts have been invaluable over the years.<br>
+以下是對數字健康研究實驗室作出特別貢獻的人員，他們的努力對我們至關重要。</div>
 
 <ul>
-    <li>Voice Actress 配音員: Kong Ming Shan Emma 江銘珊 </li>
+    <li>Voice Actress 配音員: Kong Ming Shan Emma 江銘珊，Shu Ting 舒婷</li>
     <li>Research Assistant 研究助理: Zhuang Yanqiong 莊燕瓊</li>
-    <li>Student Helpers 學生助理: Lam Ho Yin 林灝賢，Cheung Tsz Hei 張子希，Li Ting Hin 李庭軒</li>
+    <li>Undergraduate Trainee 本科實習生: Zhao Ye 趙燁， Chun Ngai Lam 林峻毅 </li>
 
 </ul>
