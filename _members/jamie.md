@@ -1,7 +1,7 @@
 ---
 name: An Xi<br>席安
 image: images/jamie.png
-role: postgrade
+role: research assistant
 group: alum
 links:
 

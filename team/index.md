@@ -23,7 +23,7 @@ Our lab has trained a group of people who will always remain part of th extended
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: postgrade" %}
+{% include list.html data="members" component="portrait" filters="role: research assistant" %}
 {% include list.html data="members" component="portrait" filters="role: designer" %}
 
 {% endcapture %}

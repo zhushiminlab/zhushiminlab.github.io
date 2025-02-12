@@ -20,9 +20,8 @@ programmer:
 designer:
   description: Designer<br>設計師
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+research assistant:
+  description: Research Assistant<br>研究助理
 
 # general
 
