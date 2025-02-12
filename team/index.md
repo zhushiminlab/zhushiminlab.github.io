@@ -9,7 +9,7 @@ nav:
 
 <center> The Zhu Shimin’s Lab consist of a group of passionate students and post-doc and research assistants.<br>
 Our lab has trained a group of people who will always remain part of th extended Zhu Lab family.<br>
-我們的實驗室由一群滿懷熱忱的博士生、博士後研究員和研究助理組成.
+數字健康研究實驗室由一群滿懷熱忱的博士生、博士後研究員和研究助理組成.
 
 {% include section.html %}
 
