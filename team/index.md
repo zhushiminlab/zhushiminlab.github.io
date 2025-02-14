@@ -39,7 +39,7 @@ Our lab has trained a group of people who will always remain part of th extended
 以下是對數字健康研究實驗室作出特別貢獻的人員，他們的努力對我們至關重要。</div>
 
 <ul>
-    <li>Voice Actress 配音員: Kong Ming Shan Emma 江銘珊，Shu Ting 舒婷</li>
+    <li>Voice Actress 配音員: Kong Ming Shan Emma 江銘珊，Liu Shuting 劉舒婷</li>
     <li>Research Assistant 研究助理: Zhuang Yanqiong 莊燕瓊</li>
     <li>Undergraduate Trainee 本科實習生: Zhao Ye 趙燁， Chun Ngai Lam 林峻毅 </li>
 
