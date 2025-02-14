@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-<center>Please feel free to contact with the following information.<br/>
-您可以通過以下方式找到我們<br>
+<center>Please feel free to contact us through the following methods.<br/>
+您可以通過以下方式聯繫我們：<br>
 </center>
 
 {%

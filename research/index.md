@@ -8,8 +8,9 @@ nav:
 # Our Publications
 
 <center>
-Our publications are about children and adolescents' mental health.<br/>
-我們的文章致力於青少年的心理健康關懷。
+Our publications focus on the overall well-being of children and adolescents.<br>
+我們的文章關注並致力於提升兒童與青少年的整體健康。
+
 </center>
 
 {% include section.html %}

@@ -8,12 +8,13 @@ permalink: /cards/pcsmile/
 
 
 ## Project Overview 項目介紹
-The Parent-Child Single-Session Growth Mindset Intervention (PC-SMILE) aims to facilitate both parents and children cultivate growth mindsets, supporting them in coping with the challenges of transitioning to secondary school life, so as to enhancing psychological resilience and problem-solving skills. This project not only promotes mental health but also encourages children to adopt more proactive attitudes when faced with everyday challenges.
+Parent-Child Single-Session Growth Mindset Intervention (PC-SMILE) <br>
+The project aims to facilitate both parents and children cultivate growth mindsets, supporting them in coping with the challenges of transitioning to secondary school life, so as to enhancing psychological resilience and problem-solving skills. This project not only promotes mental health but also encourages children to adopt more proactive attitudes when faced with everyday challenges.
 
 
 
-「親子同行：成長型思維培養項目」旨在幫助家長和孩子一起培養成長型心態，協助他們更好地應對中學生活的各種挑戰，從而提升心理韌性和解決問題的能力。這不僅有助於心理健康，也鼓勵孩子們在面對日常挑戰時採取更積極的行為。
-
+<div style="text-align: justify; text-wrap: balance;">「親子同行：成長型思維培養項目」旨在幫助家長和孩子一起培養成長型心態，協助他們更好地應對中學生活的各種挑戰，從而提升心理韌性和解決問題的能力。這不僅有助於心理健康，也鼓勵孩子們在面對日常挑戰時採取更積極的行為。
+</div>
 ## Watch Our Introduction Video 觀看介紹視頻
 <center>
 <iframe width="800" height="450" src="https://www.youtube.com/embed/7rSL2A_q4Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
