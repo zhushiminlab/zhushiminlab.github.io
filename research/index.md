@@ -16,6 +16,8 @@ Our publications focus on the overall well-being of children and adolescents.<br
 {% include section.html %}
 
 
+## Accepted Papers
+{% include list.html data="citations" component="citation" filters="status: Accepted" style="rich" %}
 
 ## All
 

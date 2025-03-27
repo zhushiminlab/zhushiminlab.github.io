@@ -3,7 +3,6 @@ from urllib.request import Request, urlopen
 from util import *
 from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
 
-
 def main(entry):
     """
     receives single list entry from orcid data file
@@ -46,7 +45,7 @@ def main(entry):
                 id
                 for id in ids
                 if get_safe(id, "external-id-relationship", "")
-                in ["self", "version-of", "part-of"]
+                   in ["self", "version-of", "part-of"]
             ),
             ids[0] if len(ids) > 0 else None,
         )
@@ -57,6 +56,10 @@ def main(entry):
         # get id and id-type from response
         id_type = get_safe(_id, "external-id-type", "")
         id_value = get_safe(_id, "external-id-value", "")
+
+        # skip preprints
+        if "preprint" in id_value.lower():
+            continue
 
         # create source
         source = {"id": f"{id_type}:{id_value}"}
@@ -80,11 +83,11 @@ def main(entry):
 
             # get date
             date = (
-                get_safe(work, "last-modified-date.value")
-                or first(lambda s: get_safe(s, "last-modified-date.value"))
-                or get_safe(work, "created-date.value")
-                or first(lambda s: get_safe(s, "created-date.value"))
-                or 0
+                    get_safe(work, "last-modified-date.value")
+                    or first(lambda s: get_safe(s, "last-modified-date.value"))
+                    or get_safe(work, "created-date.value")
+                    or first(lambda s: get_safe(s, "created-date.value"))
+                    or 0
             )
 
             # get link

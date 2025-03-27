@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2196/67234
+  title: 'Efficacy of a Web-Based Integrated Growth Mindset Intervention on Reducing
+    Anxiety Among Social Work and Counseling Practicum Trainees: Protocol for a 2-Arm
+    Randomized Controlled Trial'
+  authors:
+  - Yongyi Wang
+  - An Xi
+  - Stella S. K. Wong
+  - Kong Yam
+  - Janet Tsin Yee Leung
+  - Shimin Zhu
+  publisher: JMIR Research Protocols
+  date: '2025-03-27'
+  link: https://doi.org/g894gk
+  orcid: 0000-0003-3428-0234
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/62870
+  title: 'Facilitators and Barriers to Digital Mental Health Interventions for Depression,
+    Anxiety, and Stress in Adolescents and Young Adults: Scoping Review'
+  authors:
+  - Shimin Zhu
+  - Yongyi Wang
+  - Yuxi Hu
+  publisher: Journal of Medical Internet Research
+  date: '2025-03-24'
+  link: https://doi.org/g86shn
+  orcid: 0000-0003-3428-0234
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2196/59441
   title: 'Reciprocal Relationship Between Self-Control Belief and Gaming Disorder
     in Children and Adolescents: Longitudinal Survey Study'
@@ -48,7 +78,7 @@
   description: Using a 3-arm randomized controlled trial, this study will examine
     the effectiveness of PC-SMILE in reducing depression and anxiety symptoms among
     children.
-- id: doi:10.2196/preprints.63500
+- id: doi:10.2196/63500
   title: 'Effects of web-based single-session growth mindset interventions for reducing
     adolescent anxiety: A four-armed randomised controlled trial (Preprint)'
   authors:
@@ -60,53 +90,9 @@
   - Qijin Cheng
   - Jessica Sun
   - Paul Lee
-  publisher: JMIR Publications Inc.
+  publisher: JMIR Pediatrics and Parenting
   date: '2024-06-21'
-  link: https://doi.org/g223t8
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.63220
-  title: 'Effects of a Parent-Child Single-Session Growth Mindset Intervention on
-    Adolescent Depression and Anxiety Symptoms: Protocol of a 3-Arm Waitlist Randomized
-    Controlled Trial (Preprint)'
-  authors:
-  - Shimin Zhu
-  - Yuxi Hu
-  - Ruobing Wang
-  - Di Qi
-  - Paul Lee
-  - So Wa Ngai
-  - Qijin Cheng
-  - Paul Wai Ching Wong
-  publisher: JMIR Publications Inc.
-  date: '2024-06-13'
-  link: https://doi.org/g223vx
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.62870
-  title: 'Facilitators and Barriers to Digital Mental Health Interventions for Depression,
-    Anxiety and Stress in Adolescents and Young Adults: A Systematic Review (Preprint)'
-  authors:
-  - Shimin Zhu
-  - Yongyi Wang
-  - Yuxi Hu
-  publisher: JMIR Publications Inc.
-  date: '2024-06-03'
-  link: https://doi.org/g223wk
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.59441
-  title: 'Self-Control Belief and Gaming Disorder: A Reciprocal Model and Gender Differences
-    (Preprint)'
-  authors:
-  - Shimin Zhu
-  - Di Qi
-  publisher: JMIR Publications Inc.
-  date: '2024-04-12'
-  link: https://doi.org/g223w6
+  link: https://doi.org/g89s3g
   orcid: 0000-0003-3428-0234
   plugin: orcid.py
   file: orcid.yaml
@@ -198,23 +184,6 @@
   publisher: Psychiatry Research
   date: '2023-03-01'
   link: https://doi.org/g22328
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.41758
-  title: 'Examination of Web-Based Single-Session Growth Mindset Interventions for
-    Reducing Adolescent Anxiety: Study Protocol of a 3-Arm Cluster Randomized Controlled
-    Trial (Preprint)'
-  authors:
-  - Shimin Zhu
-  - Samson Tse
-  - Ko Ling Chan
-  - Paul Lee
-  - Qijin Cheng
-  - Jessica Sun
-  publisher: JMIR Publications Inc.
-  date: '2022-12-05'
-  link: https://doi.org/g2233v
   orcid: 0000-0003-3428-0234
   plugin: orcid.py
   file: orcid.yaml
@@ -326,22 +295,6 @@
   publisher: International Journal of Environmental Research and Public Health
   date: '2021-04-29'
   link: https://doi.org/gk6749
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.26808
-  title: 'Leisure and Problem Gaming Behaviors Among Children and Adolescents During
-    School Closures Caused by COVID-19 in Hong Kong: Quantitative Cross-sectional
-    Survey Study (Preprint)'
-  authors:
-  - Shimin Zhu
-  - Yanqiong Zhuang
-  - Paul Lee
-  - Jessica Chi-Mei Li
-  - Paul W C Wong
-  publisher: JMIR Publications Inc.
-  date: '2020-12-29'
-  link: https://doi.org/g22378
   orcid: 0000-0003-3428-0234
   plugin: orcid.py
   file: orcid.yaml
