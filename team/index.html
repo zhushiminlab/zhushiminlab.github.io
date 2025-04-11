@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
-  <head>
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!--
   put your analytics (e.g. Google Analytics) tracking code here
@@ -368,8 +368,20 @@
 
 </head>
 
-  <body>
-    
+<!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z7ZV02ZEV4"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Z7ZV02ZEV4');
+</script>
+<body>
+
 
 
 
@@ -428,8 +440,8 @@
 </nav>
 </header>
 
-    <main>
-      <!--
+<main>
+  <!--
   modify main content of page:
   - add section breaks
   - attach section properties
@@ -684,8 +696,8 @@ Our lab has trained a group of people who will always remain part of th extended
   </section>
 
 
-    </main>
-    
+</main>
+
 
 
 <footer class="background" style="--image: url('/images/footer.png')" data-size="wide">
@@ -801,5 +813,5 @@ Our lab has trained a group of people who will always remain part of th extended
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
-  </body>
+</body>
 </html>
