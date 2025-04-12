@@ -2,12 +2,12 @@
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
 <footer
-  class="background"
-  style="--image: url('{{ image }}')"
-  {% if dark == true or dark == false %}
-    data-dark="{{ dark }}"
-  {% endif %}
-  data-size="wide"
+        class="background"
+        style="--image: url('{{ image }}')"
+        {% if dark == true or dark == false %}
+        data-dark="{{ dark }}"
+        {% endif %}
+        data-size="wide"
 >
   <!--
     <div>
@@ -17,9 +17,9 @@
 
   <div>
     {% for link in site.links %}
-      {% assign key = link[0] %}
-      {% assign value = link[1] %}
-      {% include button.html type=key text="" link=value style="bare" %}
+    {% assign key = link[0] %}
+    {% assign value = link[1] %}
+    {% include button.html type=key text="" link=value style="bare" %}
     {% endfor %}
   </div>
 
@@ -32,11 +32,20 @@
     </a>
   </div>
 
+  <!-- 👇 Busuanzi 访问统计 start -->
+  <div style="margin-top: 10px; font-size: 0.9em; text-align: center;">
+    <span id="busuanzi_container_site_pv" style="margin-right: 10px;">
+      本站總訪問量：<span id="busuanzi_value_site_pv"></span> 次
+    </span>
+  </div>
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- 👆 Busuanzi 访问统计 end -->
+
   <input
-    type="checkbox"
-    class="dark-toggle"
-    data-tooltip="Dark mode"
-    aria-label="toggle dark mode"
-    oninput="onDarkToggleChange(event)"
+          type="checkbox"
+          class="dark-toggle"
+          data-tooltip="Dark mode"
+          aria-label="toggle dark mode"
+          oninput="onDarkToggleChange(event)"
   >
 </footer>
