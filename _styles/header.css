@@ -1,3 +1,4 @@
+@charset "UTF-8";
 header {
   display: flex;
   justify-content: space-between;
@@ -5,10 +6,10 @@ header {
   flex-wrap: wrap;
   gap: 25px;
   padding: 10px;
-  box-shadow: var(--shadow);
-  position: sticky !important;
-  top: 0;
-  z-index: 10 !important;
+  background-color: transparent; /* 背景透明 */
+  box-shadow: none; /* 移除阴影 */
+  position: relative; /* 允许随页面滚动 */
+  z-index: 10;
 }
 
 header a {
@@ -120,7 +121,6 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: 50px 20px;
-  top: unset;
 }
 header[data-big] .home {
   flex-direction: column;
