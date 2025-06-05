@@ -2,6 +2,11 @@
 ---
 
 .background {
+  background: transparent !important;
+}
+
+/*
+.background {
   position: relative;
   background: var(--background);
   color: var(--text);
@@ -19,3 +24,4 @@
   opacity: 0.25;
   z-index: -1;
 }
+*/

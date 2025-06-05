@@ -2,8 +2,8 @@
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
 <footer
-        class="background"
-        style="--image: url('{{ image }}')"
+
+        ...
         {% if dark == true or dark == false %}
         data-dark="{{ dark }}"
         {% endif %}
@@ -35,6 +35,7 @@
   <div style="margin-top: 10px; font-size: 14px; color: gray;">
     本站總訪問量：<span id="busuanzi_value_site_pv">加載中...</span> 次
   </div>
+
 
   <input
           type="checkbox"

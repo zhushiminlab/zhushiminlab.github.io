@@ -7,8 +7,9 @@
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
 <header
-        class="background"
-        style="--image: url('{{ image }}')"
+
+        ...
+        data-size="wide"
         {% if dark == true or dark == false %}
         data-dark="{{ dark }}"
         {% endif %}

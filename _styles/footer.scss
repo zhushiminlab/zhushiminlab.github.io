@@ -9,7 +9,9 @@ footer {
   gap: 15px;
   padding: 25px;
   line-height: var(--spacing);
-  box-shadow: var(--shadow);
+  background-color: transparent; /* ✅ 背景透明 */
+  box-shadow: none;              /* ✅ 移除阴影 */
+  color: var(--text);            /* ✅ 使用全局文字色 */
 }
 
 footer a {

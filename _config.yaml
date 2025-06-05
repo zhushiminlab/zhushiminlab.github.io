@@ -2,10 +2,8 @@
 title: Digital Health Research Lab
 subtitle: Led by Dr. Shimin Zhu
 description:
-header: images/header.png
-header-dark: true;
-footer: images/footer.png
-footer-dark: true;
+header-dark: false
+footer-dark: false
 proofer: false
 
 # site social media and other links

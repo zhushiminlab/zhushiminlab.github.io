@@ -5,7 +5,6 @@ $logo-big: 150px;
 $logo: 40px;
 $big-padding: 50px;
 $collapse: 700px;
-$sticky: true;
 
 header {
   display: flex;
@@ -14,14 +13,10 @@ header {
   flex-wrap: wrap;
   gap: 25px;
   padding: 10px;
-  box-shadow: var(--shadow);
-
-
-  @if $sticky {
-    position: sticky !important;
-    top: 0;
-    z-index: 10 !important;
-  }
+  background-color: transparent; /* 背景透明 */
+  box-shadow: none; /* 移除阴影 */
+  position: relative; /* 允许随页面滚动 */
+  z-index: 10;
 }
 
 header a {
@@ -136,10 +131,6 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: $big-padding 20px;
-
-  @if $sticky {
-    top: unset;
-  }
 
   .home {
     flex-direction: column;
