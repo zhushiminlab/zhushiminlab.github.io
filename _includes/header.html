@@ -7,13 +7,13 @@
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
 <header
-
-        ...
-        data-size="wide"
-        {% if dark == true or dark == false %}
-        data-dark="{{ dark }}"
-        {% endif %}
-        {% if page.url == "/" %}
+        class="background"
+        style="--image: url('{{ "/images/background-1.jpg" | relative_url }}')"
+data-size="wide"
+{% if dark == true or dark == false %}
+data-dark="{{ dark }}"
+{% endif %}
+{% if page.url == "/" %}
 data-big
 {% endif %}
 >
@@ -23,6 +23,7 @@ data-big
         <img src="{{ "images/logo.png" | relative_url }}" alt="logo">
       </span>
 {% endif %}
+
 {% if site.logo-text != false %}
 <span class="title-text" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
@@ -30,7 +31,7 @@ data-big
         {% endif %}
         {% if site.subtitle and site.show-subtitle != false %}
           {% if page.url == "/" %}
-  <!-- Only show subtitle on the homepage -->
+    <!-- Only show subtitle on the homepage -->
             <span class="subtitle">{{ site.subtitle }}</span>
           {% endif %}
         {% endif %}
@@ -41,19 +42,19 @@ data-big
 <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
 <nav>
-  {% assign pages = site.pages
-  | where_exp: "page", "page.nav"
-  | sort: "nav.order"
-  %}
-  {% for page in pages %}
-  {% if page.nav %}
-  <a
-          href="{{ page.dir | relative_url }}"
-          data-tooltip="{{ page.nav.tooltip }}"
-  >
-    {{ page.title }}
-  </a>
-  {% endif %}
-  {% endfor %}
+    {% assign pages = site.pages
+    | where_exp: "page", "page.nav"
+    | sort: "nav.order"
+    %}
+    {% for page in pages %}
+    {% if page.nav %}
+    <a
+            href="{{ page.dir | relative_url }}"
+            data-tooltip="{{ page.nav.tooltip }}"
+    >
+        {{ page.title }}
+    </a>
+    {% endif %}
+    {% endfor %}
 </nav>
 </header>

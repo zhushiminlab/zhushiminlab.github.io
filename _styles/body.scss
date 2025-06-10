@@ -8,24 +8,61 @@ body {
   padding: 0;
   min-height: 100vh;
 
-  background-image: url('/images/forest-desktop.png');
-  background-size: cover;
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-color: #ffffff; // 保持纯白底色
+  // ❌ 不再需要 background-image 等其他属性
 
-  color: var(--text);
   font-family: var(--body);
   text-align: center;
   line-height: var(--compact);
 }
 
-/* 手机端使用竖屏背景图 */
+.svg-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/images/bodybg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;  // 或 contain 看效果
+  background-position: center center;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.6; // 可调节透明度
+}
+
+
+
+/* Header 区域背景图 */
+header.background {
+  background-image: url('/images/header_background.png');
+  background-size: cover;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
+
+
+
+/* Footer 区域背景图 */
+footer.background {
+  background-image: url('/images/background-2.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* 手机端适配背景图
 @media (max-width: 768px) {
-  body {
-    background-image: url('/images/forest-mobile.png');
-    background-size: cover;
-    background-position: center top;
-    background-repeat: no-repeat;
+  header.background {
+    background-image: url('/images/header-mobile.jpg');
+  }
+
+  main {
+    background-image: url('/images/body-mobile.jpg');
+  }
+
+  footer.background {
+    background-image: url('/images/footer-mobile.jpg');
   }
 }
+*/

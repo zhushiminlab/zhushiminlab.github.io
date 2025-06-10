@@ -2,12 +2,12 @@
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
 <footer
-
-        ...
-        {% if dark == true or dark == false %}
-        data-dark="{{ dark }}"
-        {% endif %}
-        data-size="wide"
+        class="background"
+        style="--image: url('{{ "/images/footer.png" | relative_url }}')"
+{% if dark == true or dark == false %}
+data-dark="{{ dark }}"
+{% endif %}
+data-size="wide"
 >
   <!--
     <div>

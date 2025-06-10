@@ -3,7 +3,10 @@ title: Contact
 nav:
   order: 4
   tooltip: 聯繫方式
+layout: default
+class: page-contact
 ---
+
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
