@@ -1,7 +1,10 @@
+@charset "UTF-8";
 main {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  /* 保留这个防止高度塌陷 */
+  min-height: 500px;
 }
 
 /*# sourceMappingURL=main.css.map */

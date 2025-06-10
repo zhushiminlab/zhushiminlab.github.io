@@ -86,13 +86,15 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 25px;
+  gap: 40px;
+  padding: 10px 40px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
 
 nav > a {
-  padding: 5px;
+  padding: 10px 16px;
+  font-size: 1.05rem;
 }
 
 nav > a:hover {
@@ -125,6 +127,8 @@ header[data-big] {
 header[data-big] .home {
   flex-direction: column;
   flex-grow: 0;
+  align-items: center;
+  gap: 20px;
 }
 header[data-big] .logo {
   height: 150px;
@@ -137,10 +141,22 @@ header[data-big] .title-text {
 }
 header[data-big] .title {
   font-size: 50px;
-  color: darkolivegreen;
+  color: black;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
+}
+header[data-big] nav {
+  margin-top: 15px;
+  justify-content: center;
+  gap: 50px;
+  padding: 0 60px;
+  flex-wrap: wrap;
+  font-size: 1.2rem;
+}
+header[data-big] nav > a {
+  padding: 12px 18px;
+  font-size: 1.2rem;
 }
 
 /*# sourceMappingURL=header.css.map */

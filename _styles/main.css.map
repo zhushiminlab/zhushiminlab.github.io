@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA","sourcesContent":["main {\n  display: flex;\n  flex-direction: column;\n  flex-grow: 1;\n}\n"],"file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":";AAAA;EACE;EACA;EACA;AAEA;EACA","sourcesContent":["main {\n  display: flex;\n  flex-direction: column;\n  flex-grow: 1;\n\n  /* 保留这个防止高度塌陷 */\n  min-height: 500px;\n}"],"file":"main.css"}

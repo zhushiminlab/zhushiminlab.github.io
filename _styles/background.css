@@ -1,11 +1,6 @@
 .background {
-  background: transparent !important;
-}
-
-/*
-.background {
   position: relative;
-  background: var(--background);
+  background: transparent;
   color: var(--text);
   z-index: 1;
 }
@@ -17,10 +12,9 @@
   background-image: var(--image);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
-  opacity: 0.25;
+  background-position: center;
+  opacity: 0.3;
   z-index: -1;
 }
-*/
 
 /*# sourceMappingURL=background.css.map */
