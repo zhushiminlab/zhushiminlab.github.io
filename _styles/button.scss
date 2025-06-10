@@ -6,11 +6,7 @@ button {
 }
 
 .button-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
-  margin-top: 20px;
+  display: contents;
 }
 
 .button {
@@ -52,15 +48,4 @@ button {
 
 .button[data-flip] {
   flex-direction: row-reverse;
-}
-
-// 适用于 contact 页的按钮排版
-.page-contact .button-wrapper {
-  display: flex;
-  flex-direction: row;         // 横向排列
-  justify-content: center;     // 水平居中
-  align-items: center;
-  gap: 10px;                    // 按钮间距
-  margin-top: 30px;            // 与上方文字的间距
-  flex-wrap: wrap;             // 小屏时允许换行
 }
