@@ -93,8 +93,16 @@ $wrap: 800px;
   margin: 0;
 }
 
+
+/*
 @container (max-width: #{$wrap}) {
   .citation {
     flex-direction: column;
   }
+
+  .citation-image {
+    width: unset;
+    height: $thumb-size;
+  }
 }
+*/

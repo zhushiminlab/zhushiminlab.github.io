@@ -1,12 +1,9 @@
 {% assign image = page.footer | default: site.footer | relative_url %}
-{% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
 <footer
         class="background"
         style="--image: url('{{ "/images/footer.png" | relative_url }}')"
-{% if dark == true or dark == false %}
-data-dark="{{ dark }}"
-{% endif %}
+
 data-size="wide"
 >
   <!--
@@ -36,12 +33,4 @@ data-size="wide"
     本站總訪問量：<span id="busuanzi_value_site_pv">加載中...</span> 次
   </div>
 
-
-  <input
-          type="checkbox"
-          class="dark-toggle"
-          data-tooltip="Dark mode"
-          aria-label="toggle dark mode"
-          oninput="onDarkToggleChange(event)"
-  >
 </footer>
