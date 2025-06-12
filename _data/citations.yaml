@@ -1,451 +1,411 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
-
-- id: doi:10.1016/j.jpsychires.2025.04.034
-  title: 'Young people''s social withdrawal intention during COVID-19 in Hong Kong:
-    A three-wave longitudinal study'
-  authors:
-  - Tim M.H. Li
-  - Shimin Zhu
-  - Paul W.C. Wong
-  publisher: Journal of Psychiatric Research
-  date: '2025-06-01'
-  link: https://doi.org/g9k9fx
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/jad.12515
-  title: "Exploring the Dose\u2010Response Relationship Between Nature\u2010Based\
-    \ Outdoor Activities, Nature Connectedness and Social Health In Adolescents: A\
-    \ Quasi\u2010Experimental Controlled Study"
-  authors:
-  - Eun Yeong Choe
-  - Jen Yoohyun Lee
-  - Shimin Zhu
-  publisher: Journal of Adolescence
-  date: '2025-05-14'
-  link: https://doi.org/g9k9fz
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1089/cyber.2024.0537
-  title: 'Problematic Gaming and Self-Control Among Adolescents and Emerging Adults:
-    A Systematic Review and Meta-Analysis'
-  authors:
-  - Yuxi Hu
-  - Shiyun Chen
-  - Di Qi
-  - Shimin Zhu
-  publisher: Cyberpsychology, Behavior, and Social Networking
-  date: '2025-05-01'
-  link: https://doi.org/g9k9f2
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/63500
-  title: 'Effects of web-based single-session growth mindset interventions for reducing
-    adolescent anxiety: A four-armed randomised controlled trial (Preprint)'
-  authors:
-  - Shimin Zhu
-  - Yuxi Hu
-  - Di Qi
-  - Samson Tse
-  - Ko Ling Chan
-  - Qijin Cheng
-  - Jessica Sun
-  - Paul Lee
-  publisher: JMIR Pediatrics and Parenting
-  date: '2024-06-21'
-  link: https://doi.org/g89s3g
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/67234
-  title: 'Efficacy of a Web-Based Integrated Growth Mindset Intervention on Reducing
-    Anxiety Among Social Work and Counseling Practicum Trainees: Protocol for a 2-Arm
-    Randomized Controlled Trial'
-  authors:
-  - Yongyi Wang
-  - An Xi
-  - Stella S. K. Wong
-  - Kong Yam
-  - Janet Tsin Yee Leung
-  - Shimin Zhu
-  publisher: JMIR Research Protocols
-  date: '2025-03-27'
-  link: https://doi.org/g894gk
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/62870
-  title: 'Facilitators and Barriers to Digital Mental Health Interventions for Depression,
-    Anxiety, and Stress in Adolescents and Young Adults: Scoping Review'
-  authors:
-  - Shimin Zhu
-  - Yongyi Wang
-  - Yuxi Hu
-  publisher: Journal of Medical Internet Research
-  date: '2025-03-24'
-  link: https://doi.org/g86shn
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/59441
-  title: 'Reciprocal Relationship Between Self-Control Belief and Gaming Disorder
-    in Children and Adolescents: Longitudinal Survey Study'
-  authors:
-  - Shimin Zhu
-  - Di Qi
-  publisher: JMIR Serious Games
-  date: '2025-01-15'
-  link: https://doi.org/g8pz2j
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1108/PIJPSM-12-2023-0176
-  title: 'Predictors and mediators of work-related stress among Hong Kong police officers:
-    a quantitative secondary survey data analysis'
-  authors:
-  - Yuen-kiu Cheung
-  - Jessica C.M. Li
-  - Shimin Zhu
-  publisher: 'Policing: An International Journal'
-  date: '2024-07-10'
-  link: https://doi.org/g223tk
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/63220
-  title: 'Effects of a Parent-Child Single-Session Growth Mindset Intervention on
-    Adolescent Depression and Anxiety Symptoms: Protocol of a 3-Arm Waitlist Randomized
-    Controlled Trial'
-  authors:
-  - Shimin Zhu
-  - Yuxi Hu
-  - Ruobing Wang
-  - Di Qi
-  - Paul Lee
-  - So Wa Ngai
-  - Qijin Cheng
-  - Paul Wai Ching Wong
-  publisher: JMIR Research Protocols
-  date: '2024-08-30'
-  link: https://doi.org/g223sx
-  orcid: 0000-0003-3428-0234
-  plugin: sources.py
-  file: sources.yaml
+- id: paper-001
+  title: "Young People's Social Withdrawal Intention During COVID-19 in Hong Kong: A Three-wave Longitudinal Study."
+  authors: ["Tim M.H. Li, Shimin Zhu, Paul W.C. Wong"]
+  publisher: "Journal of Psychiatric Research"
+  date: 2025-06-01
+  link: "https://www.sciencedirect.com/science/article/pii/S0022395625002717"
   type: paper
-  description: Using a 3-arm randomized controlled trial, this study will examine
-    the effectiveness of PC-SMILE in reducing depression and anxiety symptoms among
-    children.
-- id: doi:10.31234/osf.io/8gwpr
-  title: Burbidge_Feb2024_IBMSchoolTransition
-  authors:
-  - Alysia Burbidge
-  - Shimin ZHU
-  - Sing-Hang Cheung
-  - Daphna Oyserman
-  publisher: Center for Open Science
-  date: '2024-02-27'
-  link: https://doi.org/g223xq
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13063-023-07748-5
-  title: 'Single-session intervention on growth mindset on negative emotions for university
-    student mental health (U-SIGMA): a protocol of two-armed randomized controlled
-    trial'
-  authors:
-  - Shimin Zhu
-  - Yuxi Hu
-  - Di Qi
-  - Nan Qin
-  - Xinli Chi
-  - Jiawen Luo
-  - Jie Wu
-  - Hua Huang
-  - Qiaobing Wu
-  - Lu Yu
-  - Shiguang Ni
-  - Kyra Hamilton
-  - Samson Tse
-  publisher: Trials
-  date: '2023-11-08'
-  link: https://doi.org/g223zf
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-3043673/v1
-  title: 'Single-session Intervention on Growth Mindset on Negative Emotions for University
-    Student Mental Health (U-SIGMA): A Protocol of Two-armed Randomized Controlled
-    Trial'
-  authors:
-  - Shimin ZHU
-  - Yuxi HU
-  - Di QI
-  - Nan QIN
-  - Xinli CHI
-  - Jiawen LUO
-  - Jie WU
-  - Hua HUANG
-  - Qiaobing WU
-  - Lu YU
-  - Shiguang NI
-  - Kyra Hamilton
-  - Samson TSE
-  publisher: Research Square Platform LLC
-  date: '2023-07-20'
-  link: https://doi.org/g223z3
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/41758
-  title: 'Examination of Web-Based Single-Session Growth Mindset Interventions for
-    Reducing Adolescent Anxiety: Study Protocol of a 3-Arm Cluster Randomized Controlled
-    Trial'
-  authors:
-  - Shimin Zhu
-  - Samson Tse
-  - Ko Ling Chan
-  - Paul Lee
-  - Qijin Cheng
-  - Jessica Sun
-  publisher: JMIR Research Protocols
-  date: '2023-03-17'
-  link: https://doi.org/g2232r
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.psychres.2023.115059
-  title: "Risk and protective factors in suicidal behaviour among young people in\
-    \ Hong Kong: A comparison study between children and adolescents\u2730"
-  authors:
-  - Shimin Zhu
-  - Xiaomin Li
-  - Paul W.C. Wong
-  publisher: Psychiatry Research
-  date: '2023-03-01'
-  link: https://doi.org/g22328
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/sltb.12891
-  title: "What matters for adolescent suicidality: Depressive symptoms or fixed mindsets?\
-    \ Examination of cross\u2010sectional and longitudinal associations between fixed\
-    \ mindsets and suicidal ideation"
-  authors:
-  - Shimin Zhu
-  - Paul W. C. Wong
-  publisher: Suicide and Life-Threatening Behavior
-  date: '2022-06-10'
-  link: https://doi.org/g2234j
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/eip.13177
-  title: Psychometric properties of the Mindsets of Depression, Anxiety, and Stress
-    Scale (MDASS) in Chinese young adults and adolescents
-  authors:
-  - Shimin Zhu
-  - Yanqiong Zhuang
-  - Paul Lee
-  publisher: Early Intervention in Psychiatry
-  date: '2021-05-30'
-  link: https://doi.org/gj9zqx
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.jad.2021.07.042
-  title: 'The changes of suicidal ideation status among young people in Hong Kong
-    during COVID-19: A longitudinal survey'
-  authors:
-  - Shimin ZHU
-  - Yanqiong ZHUANG
-  - Paul LEE
-  - Paul W.C. WONG
-  publisher: Journal of Affective Disorders
-  date: '2021-11-01'
-  link: https://doi.org/grzm3d
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/n5x9z
-  title: 'What matters for adolescent suicidality: depressive symptoms or fixed mindsets?
-    Examination of cross-sectional and longitudinal associations between fixed mindset
-    and suicidal ideation'
-  authors:
-  - Shimin ZHU
-  - Wong Wai Ching
-  publisher: Center for Open Science
-  date: '2021-08-11'
-  link: https://doi.org/g2235z
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1177/10986111211034777
-  title: "Work\u2013Family Conflicts, Stress, and Turnover Intention Among Hong Kong\
-    \ Police Officers Amid the COVID-19 Pandemic"
-  authors:
-  - Jessica C. M. Li
-  - Chau-kiu Cheung
-  - Ivan Y. Sun
-  - Yuen-kiu Cheung
-  - Shimin Zhu
-  publisher: Police Quarterly
-  date: '2021-08-08'
-  link: https://doi.org/grjqzr
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/b4wv7
-  title: 'The changes of suicidal ideation status among young people in Hong Kong
-    during COVID-19: A longitudinal survey'
-  authors:
-  - Shimin ZHU
-  - Yanqiong Zhuang
-  - Paul Lee
-  - Wong Wai Ching
-  publisher: Center for Open Science
-  date: '2021-06-01'
-  link: https://doi.org/g22365
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/26808
-  title: 'Leisure and Problem Gaming Behaviors Among Children and Adolescents During
-    School Closures Caused by COVID-19 in Hong Kong: Quantitative Cross-sectional
-    Survey Study'
-  authors:
-  - Shimin Zhu
-  - Yanqiong Zhuang
-  - Paul Lee
-  - Jessica Chi-Mei Li
-  - Paul W C Wong
-  publisher: JMIR Serious Games
-  date: '2021-05-07'
-  link: https://doi.org/gk7hnh
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3390/ijerph18094780
-  title: "Impacts on Children and Adolescents\u2019 Lifestyle, Social Support and\
-    \ Their Association with Negative Impacts of the COVID-19 Pandemic"
-  authors:
-  - Shimin Zhu
-  - Yanqiong Zhuang
-  - Patrick Ip
-  publisher: International Journal of Environmental Research and Public Health
-  date: '2021-04-29'
-  link: https://doi.org/gk6749
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1080/21642850.2020.1806717
-  title: 'Cognition malleability belief, emotion regulation and adolescent well-being:
-    examining a mediation model among migrant youth'
-  authors:
-  - Shimin Zhu
-  - Shiguang Ni
-  - Kyra Hamilton
-  publisher: Health Psychology and Behavioral Medicine
-  date: '2020-01-01'
-  link: https://doi.org/gn4ctz
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/occmed/kqw137
-  title: Health-related behaviours and mental health in Hong Kong employees
-  authors:
-  - S. Zhu
-  - S. Tse
-  - F. Goodyear-Smith
-  - W. Yuen
-  - P. W. Wong
-  publisher: Occupational Medicine
-  date: '2016-10-05'
-  link: https://doi.org/f9vkz5
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1177/0020764015589132
-  title: "An ecological analysis of secondary school students\u2019 drug use in Hong\
-    \ Kong: A case-control study"
-  authors:
-  - Samson Tse
-  - Shimin Zhu
-  - Chong Ho Yu
-  - Paul Wong
-  - Sandra Tsang
-  publisher: International Journal of Social Psychiatry
-  date: '2015-06-09'
-  link: https://doi.org/f76vt6
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/add.13285
-  title: "Effectiveness of motivational interviewing to reduce illicit drug use in\
-    \ adolescents: a systematic review and meta\u2010analysis"
-  authors:
-  - Lili Li
-  - Shimin Zhu
-  - Nick Tse
-  - Samson Tse
-  - Paul Wong
-  publisher: Addiction
-  date: '2016-01-27'
-  link: https://doi.org/gdskpn
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1080/17542863.2016.1198409
-  title: 'Knowledge, attitudes and behaviors associated with mental illness among
-    the working population in Hong Kong: a cross-sectional telephone survey'
-  authors:
-  - Shimin Zhu
-  - Samson Tse
-  - Jessica Tang
-  - Paul Wong
-  publisher: International Journal of Culture and Mental Health
-  date: '2016-06-29'
-  link: https://doi.org/g224bj
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1080/02673843.2015.1031683
-  title: 'Possible selves, strategies and perceived likelihood among adolescents in
-    Hong Kong: desire and concern'
-  authors:
-  - Shimin Zhu
-  - Samson Tse
-  publisher: International Journal of Adolescence and Youth
-  date: '2015-04-23'
-  link: https://doi.org/g224b6
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/bjep.12044
-  title: Will I get there? Effects of parental support on children's possible selves
-  authors:
-  - Shimin Zhu
-  - Samson Tse
-  - "Sing\u2010Hang Cheung"
-  - Daphna Oyserman
-  publisher: British Journal of Educational Psychology
-  date: '2014-06-16'
-  link: https://doi.org/gghm3x
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1176/appi.ps.000022013
-  title: 'Mental Health Care Reforms in Asia: The Urgency of Now: Building a Recovery-Oriented,
-    Community Mental Health Service in China'
-  authors:
-  - Samson Tse
-  - Mao-Sheng Ran
-  - Yueqin Huang
-  - Shimin Zhu
-  publisher: Psychiatric Services
-  date: '2013-07-01'
-  link: https://doi.org/g224dg
-  orcid: 0000-0003-3428-0234
-  plugin: orcid.py
-  file: orcid.yaml
+
+- id: paper-002
+  title: "Exploring the Dose‐Response Relationship Between Nature‐Based Outdoor Activities, Nature Connectedness and Social Health In Adolescents: A Quasi‐Experimental Controlled Study."
+  authors: ["Eun Yeong Choe, Jen Yoohyun Lee, Shimin Zhu"]
+  publisher: "Journal of Adolescence "
+  date: 2025-05-14
+  type: paper
+  link: "https://pubmed.ncbi.nlm.nih.gov/40365936/"
+
+- id: paper-003
+  title: "Problematic Gaming and Self-Control Among Adolescents and Emerging Adults: A Systematic Review and Meta-Analysis."
+  authors: ["Yuxi Hu, Shiyun Chen, Di Qi, Shimin Zhu"]
+  publisher: "Cyberpsychology, Behavior, and Social Networking"
+  date: 2025-05-01
+  type: paper
+  link: "http://liebertpub.com/doi/10.1089/cyber.2024.0537"
+  status: Featured
+  description: |
+    本研究系統性回顧與整合了遊戲成癮與自我控制之間的關係。結果顯示，兩者之間存在中等強度的負相關，尤其在青少年與新興成年人中皆有穩定結果。強化自我調節能力可能有助於減少遊戲成癮風險，相關研究多來自中國、韓國等亞洲國家，反映了文化對自律的重視及對遊戲成癮的關注。
+    <br>
+    This systematic review and meta-analysis explores the link between problematic gaming and self-control. Results show a medium-strength negative correlation across studies, especially in adolescents and emerging adults. Enhancing self-regulation may help reduce gaming addiction risk. Most studies were conducted in East Asia, reflecting cultural concerns about self-discipline and gaming behavior.
+
+- id: paper-004
+  title: "Effects of Web-Based Single-Session Growth Mindset Interventions for Reducing Adolescent Anxiety: Four-Armed Randomized Controlled Trial."
+  authors: ["Shimin Zhu, Yuxi Hu, Di Qi, Samson Tse, Ko Ling Chan, Jessica Sun, Paul Lee"]
+  publisher: "JMIR Pediatrics and Parenting  "
+  date: 2025-04-18
+  type: paper
+  link: "https://pediatrics.jmir.org/2025/1/e63500"
+
+- id: paper-005
+  title: "Efficacy of a Web-Based Integrated Growth Mindset Intervention on Reducing Anxiety Among Social Work and Counseling Practicum Trainees: Protocol for a 2-Arm Randomized Controlled Trial."
+  authors: ["Yongyi Wang, An Xi, Stella S. K. Wong, Kong Yam, Janet Tsin Yee Leung, Shimin Zhu"]
+  publisher: "JMIR Research Protocols"
+  date: 2025-03-27
+  type: paper
+  link: "http://researchprotocols.org/2025/1/e67234"
+  status: Featured
+  description: >-
+    1.直擊實習焦慮的創新方法，專門幫社工系學生解決「實習前緊張」的線上成長思維課。
+    <br> 
+    2.45分鐘隨學隨用，一段午餐時間就能完成的網路課程，現有實習培訓直接加入就能用，不增加行政負擔。   
+    <br> 
+    3.有理論依據的實用技巧，教學生3個關鍵心法：智力可以提升、失敗是學習機會、情緒能管理（背後有嚴謹心理學理論支持）。
+    <br> 
+    4.師生一起設計的接地氣內容，真實採集學生焦慮點+督導實務經驗，課程內容就是實習現場會遇到的狀況。
+    <br> 
+    5.各校都能輕鬆推行，不用額外經費或設備，看完馬上能用，適合大量學生同時參與。
+    <br> 
+    6.對老師/督導也有許多好處：
+    <br> 
+    ✔ 學生焦慮減少 → 實習初期狀況變少
+    <br>
+    ✔ 學生準備度提高 → 督導更省力
+    <br>
+    ✔ 不用改現有培訓架構 → 隨插即用
+    <br>
+    1.Innovative Intervention - Web-based growth mindset intervention specifically designed for pre-placement anxiety among social work students.
+    <br>    
+    2.Practicality – A 45-minute, single-session, online self-guided programme integrable into existing training.
+    <br>    
+    3.Robust Theoretical Foundation – Grounded in implicit theories, fostering growth mindsets regarding intelligence, failure, and emotion.
+    <br>    
+    4.Co-designed Approach - Students and supervisors collaborated in intervention development.
+    <br>    
+    5.High Scalability - Low-cost, low-burden, and easily replicable for large-scale implementation.
+    <br>   
+    6.Practical Implications: Provides social work education with a scientifically validated digital tool that effectively reduces student practicum anxiety, enhances professional readiness, and alleviates supervisor workload.
+
+- id: paper-006
+  title: "Facilitators and Barriers to Digital Mental Health Interventions for Depression, Anxiety, and Stress in Adolescents and Young Adults: Scoping Review."
+  authors: ["Shimin Zhu, Yongyi Wang, Yuxi Hu"]
+  publisher: "Journal of Medical Internet Research"
+  date: 2025-03-27
+  type: paper
+  link: "http://researchprotocols.org/2025/1/e67234"
+  status: Featured
+  description: >-
+    1.數字心理健康干預（DMHIs）的接受度受質量與效果主導，高質效促進使用，低質效則成障礙。
+    <br>     
+    2.外部（如與學校整合、社會規範）、干預（如設計相關性、靈活時長）、個體（如需求感知、隱私擔憂）三層面共識別14項促進因素與13項障礙。
+    <br> 
+    3.非便攜設備中質效最關鍵；便攜設備中設計和諧與內容參與度同樣重要；多平台需平衡風險感知與用戶體驗。
+    <br> 
+    4.實踐建議: 用戶中心設計、混合服務模式（結合傳統與數字干預）、靈活個性化選項可提升青少年對DMHIs的接受度。
+    <br> 
+    1.‘Quality and effect’ is central — superior quality and effect enhances the adoption of DMHIs, while inferior quality and effect constitutes a critical barrier.
+    <br> 
+    2.At the external (e.g., school integration, social norms), intervention (e.g., design relevancy, appropriate duration), and individual (e.g., perceived need, privacy concerns) levels, a total of 14 facilitators and 13 barriers were identified.
+    <br>  
+    3.Non-portable devices prioritise quality and effect; portable devices emphasise design harmony and content engagement; multi-platform interventions require balancing risk perception with user experience.
+    <br> 
+    4.Recommendations: Promote user-centred design, hybrid models (integrating digital and traditional care), and flexible personalisation to optimise the uptake of DMHIs.
+   
+- id: paper-007
+  title: "Reciprocal Relationship Between Self-Control Belief and Gaming Disorder in Children and Adolescents: Longitudinal Survey Study."
+  authors: ["Shimin Zhu, Di Qi"]
+  publisher: "JMIR Serious Games"
+  date: 2025-01-15
+  type: paper
+  link: "https://games.jmir.org/2025/1/e59441"
+  status: Featured
+  description: >-
+    1.我們的研究發現相信自我控制能否改變與遊戲障礙症狀嚴重程度之間存在雙向關係。
+    <br>     
+    2.對男孩和女孩參與者的分組分析顯示，在女孩中，關於自我控制的更多成長型心態預測了較輕的遊戲障礙症狀，而在男孩中則沒有這種關係。同時，較嚴重的遊戲障礙症狀預測了一年後男孩和女孩關於自我控制更加固定的心態。
+    <br> 
+    3.我們的結果表明遊戲障礙對個人自我控制可塑性信念有負面影響，並暗示促進關於自我控制的成長型心態可能是預防和早期干預遊戲障礙的有前景策略，尤其是對女孩而言。
+    <br> 
+    4.實踐建議: 用戶中心設計、混合服務模式（結合傳統與數字干預）、靈活個性化選項可提升青少年對DMHIs的接受度。
+    <br> 
+    1.A bidirectional relationship was found between self-control mindsets and gaming disorder symptom severity.
+    <br> 
+    2.Subgroup analyses of boy and girl participants revealed that more growth mindsets regarding self-control predicted less severe gaming disorder symptoms in girls but not in boys, while more severe gaming disorder symptoms predicted a more fixed mindset of self-control in both boys and girls after 1 year.
+    <br>  
+    3.Our findings demonstrated the negative impact of gaming disorder on one’s self-control malleability beliefs and implied that promoting a growth mindset regarding self-control might be a promising strategy for gaming disorder prevention and early intervention, especially for girls.
+
+- id: paper-008
+  title: "Predictors and Mediators of Work-related Stress Among Hong Kong Police Officers: a Quantitative Secondary Survey Data Analysis."
+  authors: ["Yuen-kiu Cheung, Jessica C.M. Li, Shimin Zhu"]
+  publisher: "Policing: An International Journal"
+  date: 2024-07-10
+  type: paper
+  link: "https://www.emerald.com/insight/content/doi/10.1108/pijpsm-12-2023-0176/full/html"
+
+    
+- id: paper-009
+  title: "Believing that Difficulty Signals Importance Improves School Outcomes by Bolstering Academic Possible Identities, A Recursive Analysis."
+  authors: ["Alysia Burbidge,Shimin Zhu,Sing-Hang Cheung,Daphna Oyserman"]
+  publisher: "PLoS One"
+  date: 2024-10-21
+  type: paper
+  link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308376"
+
+
+- id: paper-010
+  title: "Effects of a Parent-Child Single-Session Growth Mindset Intervention on Adolescent Depression and Anxiety Symptoms: Protocol of a 3-Arm Waitlist Randomized Controlled Trial."
+  authors: ["Shimin Zhu, Yuxi Hu, Ruobing Wang, Di Qi, Paul Lee, So Wa Ngai, Qijin Cheng, Paul Wai Ching Wong"]
+  publisher: "PLoS One"
+  date: 2024-08-30
+  type: paper
+  link: "https://www.researchprotocols.org/2024/1/e63220"
+
+
+- id: paper-011
+  title: "Unpacking the Myth in the Associations Between Self-control and Gaming Disorder in Children and Adolescents: A Comparison Between Traditional and Random Intercept Cross-lagged Panel Model Analyses."
+  authors: ["Di QI, Xiaomin LI, Shimin ZHU"]
+  publisher: "International Journal of Mental Health and Addiction"
+  date: 2024-04-08
+  type: paper
+  link: "https://link.springer.com/article/10.1007/s11469-024-01294-0"
+  status: Featured
+  description: >-
+    1.使用將個體間和個體內方差分離的分析方法，結果顯示自我控制與遊戲障礙之間沒有因果性關係，即自我控制既不是兒童和青少年遊戲障礙的原因，也不是他們遊戲障礙的結果。
+    <br>     
+    2.我們推測一些因素構成低自我控制和遊戲障礙的共同潛在原因：首先，個人特徵（包括與這些特徵相關的性格特質和遺傳因素）可能是共同原因。其次，長期的個人內部和環境因素可能解釋目前發現的自我控制與遊戲障礙之間穩定的個體間關聯
+    <br> 
+    3.單純改善自我控制的干預措施可能無法阻止或預防青少年遊戲障礙的發展，其他共同因素或共病情況值得注意。
+    <br> 
+    4.實踐建議: 用戶中心設計、混合服務模式（結合傳統與數字干預）、靈活個性化選項可提升青少年對DMHIs的接受度。
+    <br> 
+    1.Using analysis which disaggregated the between-person and within-person variances, this study revealed no prospective relationship between self-control and gaming disorder, indicating that self-control was neither the cause nor the result of gaming disorder in children and adolescents.
+    <br> 
+    2.There are some speculations about what may serve as the common underlying cause of low self-control and gaming disorder. First, personal characteristics, such as personality traits and genetics linked to these traits, may serve as common causes. Second, chronic intrapersonal and environmental factors may account for the currently identified stable between-person associations between self-control and gaming disorder.
+    <br>  
+    3.Interventions to improve self-control alone might not stop or prevent the development of gaming disorder among youths. Other common factors or comorbidities are worth noting.
+
+
+- id: paper-012
+  title: "Burbidge_Feb2024_IBMSchoolTransition."
+  authors: ["Alysia Burbidge,Shimin ZHU,Sing-Hang Cheung, Daphna Oyserman"]
+  publisher: "Center for Open Science"
+  date: 2024-02-27
+  type: paper
+  link: "https://osf.io/preprints/psyarxiv/8gwpr_v1"
+
+
+- id: paper-013
+  title: "The Effect of Cultural Confidence on Mental Health: the Mediating Role of Growth Mindset."
+  authors: ["Bi Chongzeng;Xue Wenhui;Zhu Shimin"]
+  publisher: "Journal of Liaoning Normal University (Social Science Edition)"
+  date: 2024-01-20
+  type: paper
+
+- id: paper-014
+  title: "Single-session Intervention on Growth Mindset on Negative Emotions for University Student Mental Health (U-SIGMA): A protocol of Two-armed Randomized Controlled Trial."
+  authors: ["Shimin Zhu, Yuxi Hu, Di Qi, Nan Qin, Xinli Chi,Jiawen Luo,Jie Wu, Hua Huang, Qiaobing Wu, Lu Yu, Shiguang Ni, Kyra Hamilton, Samson Tse"]
+  publisher: "Trials"
+  date: 2023-11-08
+  type: paper
+  link: "http://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07748-5"
+
+- id: paper-015
+  title: "Unravelling the intricacies between gaming motivation and internet gaming disorder symptoms in adolescents: A network analysis of two-year healthy and deteriorating transition profiles."
+  authors: ["Shiyun Chen, Shimin Zhu"]
+  publisher: "Child and Adolescent Psychiatry and Mental Health"
+  date: 2023-10-21
+  type: paper
+  link: "https://capmh.biomedcentral.com/articles/10.1186/s13034-023-00671-2"
+  status: Featured
+  description: >-
+    1.並非所有遊戲動機都是「有害的」，部分動機（例如：提升能力、日常放鬆）對青少年来說是有益的。
+    <br>  
+    2.當遊戲成為逃避現實或過度沉迷的出口時，更容易引發網絡遊戲障礙。
+    <br>  
+    3.對於遊戲行為逐漸惡化的青少年，單純限制遊戲時間未必有效。更重要的是了解其背後的遊戲動機，並協助他們在現實生活中建立成就感與自信心。
+    <br>  
+    4.引導青少年發展正向的遊戲動機很重要，例如透過遊戲學習策略思維、團隊合作與解難能力，而不是單純沉迷於虛擬世界來逃避情緒或學業壓力。
+    <br>  
+    1.Not all gaming motivations are harmful—some (like improving skills or daily relaxation) may even be beneficial.
+    <br>  
+    2.When games are used to escape reality or when preoccupation dominates, the risk of disorder increases.
+    <br>  
+    3.For adolescents with worsening gaming issues, simply limiting screen time may not help. It's more effective to address why they play and support healthier alternatives (e.g., helping them find real-life goals or confidence).
+    <br>
+    4.Encouraging healthy gaming motivations is important, such as learning strategies or teamwork through games, rather than letting gaming become an escape from emotional or academic challenges.
+
+- id: paper-016
+  title: "Examination of Web-Based Single-Session Growth Mindset Interventions for Reducing Adolescent Anxiety: Study Protocol of a 3-Arm Cluster Randomized Controlled Trial."
+  authors: ["AShimin Zhu, Samson Tse, Ko Ling Chan, Paul Lee, Qijin Cheng, Jessica Sun"]
+  publisher: "JMIR Research Protocols"
+  date: 2023-03-17
+  type: paper
+  link: "https://osf.io/preprints/psyarxiv/8gwpr_v1"
+
+- id: paper-017
+  title: "Risk and Protective Factors in Suicidal Behaviour among Young People in Hong Kong: A Comparison Study between Children and Adolescents."
+  authors: ["Shimin Zhu, Xiaomin Li, Paul W.C. Wong"]
+  publisher: "Psychiatry Research"
+  date: 2023-03-01
+  type: paper
+  link: "https://www.sciencedirect.com/science/article/pii/S0165178123000124?via%3Dihub"
+
+
+- id: paper-018
+  title: "What Matters for Adolescent Suicidality: Depressive Symptoms or Fixed Mindsets? Examination of Cross-sectional and Longitudinal Associations between Fixed Mindsets and Suicidal Ideation."
+  authors: ["Shimin Zhu, Paul W. C. Wong"]
+  publisher: "Suicide and Life-threatening Behavior"
+  date: 2022-06-10
+  type: paper
+  link: "https://onlinelibrary.wiley.com/doi/10.1111/sltb.12891"
+
+- id: paper-019
+  title: "The Changes of Suicidal Ideation Status Among Young People in Hong Kong During COVID-19: A Longitudinal Survey."
+  authors: ["Shimin Zhu", "Yanqiong Zhuang", "Paul Lee", "Paul W.C. Wong"]
+  publisher: "Journal of Affective Disorders"
+  date: 2021-11-01
+  type: paper
+  link: "https://www.sciencedirect.com/science/article/pii/S0165032721007217?via%3Dihub"
+
+
+- id: paper-020
+  title: "Work-Family Conflicts, Stress, and Turnover Intention Among Hong Kong Police Officers Amid the COVID-19 Pandemic."
+  authors: ["Jessica C. M. Li", "Chau-kiu Cheung", "Ivan Y. Sun", "Yuen-kiu Cheung", "Shimin Zhu"]
+  publisher: "Police Quarterly"
+  date: 2021-08-08
+  type: paper
+  link: "https://journals.sagepub.com/doi/10.1177/10986111211034777"
+
+
+
+- id: paper-021
+  title: "Psychometric Properties of the Mindsets of Depression, Anxiety, and Stress Scale (MDASS) in Chinese Young Adults and Adolescents."
+  authors: ["Shimin Zhu", "Yanqiong Zhuang", "Paul Lee"]
+  publisher: "Early Intervention in Psychiatry"
+  date: 2021-05-30
+  type: paper
+  link: "https://onlinelibrary.wiley.com/doi/10.1111/eip.13177"
+
+- id: paper-022
+  title: "Leisure and Problem Gaming Behaviors Among Children and Adolescents During School Closures Caused by COVID-19 in Hong Kong: Quantitative Cross-Sectional Survey Study."
+  authors: ["Shimin Zhu", "Yanqiong Zhuang", "Paul Lee", "Jessica Chi-Mei Li", "Paul W.C. Wong"]
+  publisher: "JMIR Serious Games"
+  date: 2021-05-07
+  type: paper
+  link: "https://games.jmir.org/2021/2/e26808/"
+
+- id: paper-023
+  title: "Investigating Prolonged Social Withdrawal Behaviour as a Risk Factor for Self-Harm and Suicidal Behaviours."
+  authors: ["Shimin Zhu", "Paul H. Lee", "Paul W.C. Wong"]
+  publisher: "BJPsych Open"
+  date: 2021-04-30
+  type: paper
+  link: "https://www.cambridge.org/core/journals/bjpsych-open/article/investigating-prolonged-social-withdrawal-behaviour-as-a-risk-factor-for-selfharm-and-suicidal-behaviours/CE7F35A1F68211FFE388011E395A3766"
+
+- id: paper-024
+  title: "Impacts on Children and Adolescents’ Lifestyle, Social Support and Their Association With Negative Impacts of the COVID-19 Pandemic."
+  authors: ["Shimin Zhu", "Yanqiong Zhuang", "Patrick Ip"]
+  publisher: "International Journal of Environmental Research and Public Health"
+  date: 2021-04-29
+  type: paper
+  link: "https://www.mdpi.com/1660-4601/18/9/4780"
+
+- id: paper-025
+  title: "An Evaluation of a Pilot Counselling Model in Hong Kong for Individuals With Mild-to-Moderate Psychological Issues."
+  authors: ["Paul W.C. Wong", "Shimin Zhu", "Tim M.H. Li", "Eppie H.Y. Wan", "Hallie H.L. Chan", "Vanessa S.W. Yu", "Kelly S.K. Fung", "Samson Tse"]
+  publisher: "British Journal of Guidance & Counselling"
+  date: 2021-04-19
+  type: paper
+  link: "https://www.tandfonline.com/doi/abs/10.1080/03069885.2021.1880077"
+
+- id: paper-026
+  title: "The Effectiveness of an Attachment-Based Parenting Programme for Parents in Hong Kong."
+  authors: ["Sowa Ngai", "Hoyee Au-Yeung", "Waiyan Christy Tsui", "Shimin Zhu"]
+  publisher: "China Journal of Social Work"
+  date: 2020-12-16
+  type: paper
+  link: "https://www.tandfonline.com/doi/full/10.1080/17525098.2020.1848345"
+
+- id: paper-027
+  title: "Cognition Malleability Belief, Emotion Regulation and Adolescent Well-Being: Examining a Mediation Model Among Migrant Youth."
+  authors: ["Shimin Zhu", "Shiguang Ni", "Kyra Hamilton"]
+  publisher: "Health Psychology and Behavioral Medicine"
+  date: 2020-08-17
+  type: paper
+  link: "https://www.tandfonline.com/doi/full/10.1080/21642850.2020.1806717"
+
+- id: paper-028
+  title: "Domain Specificity or Generality: Assessing the Chinese Implicit Theories Scale of Six Fundamental Psychological Attributes."
+  authors: ["Shimin Zhu", "Yanqiong Zhuang", "Sing-Hang Cheung"]
+  publisher: "Frontiers in Psychology"
+  date: 2020-02-11
+  type: paper
+  link: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00142/full"
+
+- id: paper-029
+  title: "The Longer-Term Psychosocial Development of Adolescents: Child Development Accounts and the Role of Mentoring."
+  authors: ["Ko Ling Chan", "Camilla Kin Ming Lo", "Frederick Ka Wing Ho", "Shimin Zhu", "Simon Man Kin Lai", "Patrick Ip"]
+  publisher: "Frontiers in Pediatrics"
+  date: 2018-05-23
+  type: paper
+  link: "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2018.00147/full"
+
+- id: paper-030
+  title: "The Development of Self-Esteem and the Role of Agency and Communion: A Longitudinal Study Among Chinese."
+  authors: ["Feifei Chen", "Shimin Zhu", "Chongzeng Bi"]
+  publisher: "Journal of Child and Family Studies"
+  date: 2017-11-10
+  type: paper
+  link: "https://link.springer.com/article/10.1007/s10826-017-0942-y"
+
+- id: paper-031
+  title: "Health-Related Behaviours and Mental Health in Hong Kong Employees."
+  authors: ["Shimin Zhu", "Samson Tse", "F. Goodyear-Smith", "Winnie Yuen", "Paul W.C. Wong"]
+  publisher: "Occupational Medicine"
+  date: 2016-10-05
+  type: paper
+  link: "https://academic.oup.com/occmed/article-abstract/67/1/26/2623666?redirectedFrom=fulltext&login=false"
+
+
+- id: paper-032
+  title: "Knowledge, Attitudes, and Behaviours Associated With Mental Illness Among the Working Population in Hong Kong: A Cross-Sectional Telephone Survey."
+  authors: ["Shimin Zhu", "Samson Tse", "Jessica Tang", "Paul Wong"]
+  publisher: "International Journal of Culture and Mental Health"
+  date: 2016-06-29
+  type: paper
+  link: "https://www.tandfonline.com/doi/full/10.1080/17542863.2016.1198409"
+
+- id: paper-033
+  title: "Effectiveness of Motivational Interviewing to Reduce Illicit Drug Use in Adolescents: A Systematic Review and Meta-Analysis."
+  authors: ["Lili Li", "Shimin Zhu", "Nick Tse", "Samson Tse", "Paul Wong"]
+  publisher: "Addiction"
+  date: 2015-12-21
+  type: paper
+  link: "https://onlinelibrary.wiley.com/doi/10.1111/add.13285"
+
+- id: paper-034
+  title: "An Ecological Analysis of Secondary School Students’ Drug Use in Hong Kong: A Case-Control Study."
+  authors: ["Samson Tse", "Shimin Zhu", "Chong Ho Yu", "Paul Wong", "Sandra Tsang"]
+  publisher: "International Journal of Social Psychiatry"
+  date: 2015-06-09
+  type: paper
+  link: "https://journals.sagepub.com/doi/10.1177/0020764015589132?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+
+- id: paper-035
+  title: "Possible Selves, Strategies and Perceived Likelihood Among Adolescents in Hong Kong: Desire and Concern."
+  authors: ["Shimin Zhu", "Samson Tse"]
+  publisher: "International Journal of Adolescence and Youth"
+  date: 2015-04-23
+  type: paper
+  link: "https://www.tandfonline.com/doi/full/10.1080/02673843.2015.1031683"
+
+- id: paper-036
+  title: "Will I Get There? Effects of Parental Support on Children’s Possible Selves."
+  authors: ["Shimin Zhu", "Samson Tse", "Sing-Hang Cheung", "Daphna Oyserman"]
+  publisher: "British Journal of Educational Psychology"
+  date: 2014-06-16
+  type: paper
+  link: "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.12044"
+
+- id: paper-037
+  title: "Mental Health Care Reforms in Asia: The Urgency of Now: Building a Recovery-Oriented, Community Mental Health Service in China."
+  authors: ["Samson Tse", "Mao-Sheng Ran", "Yueqin Huang", "Shimin Zhu"]
+  publisher: "Psychiatric Services"
+  date: 2013-07-01
+  type: paper
+  link: "https://psychiatryonline.org/doi/10.1176/appi.ps.000022013?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+
+- id: paper-038
+  title: "“Possible Selves”: Concept and Applications for Individuals in Recovery from Mental Health Problemss."
+  authors: ["Samson Tse", "Shimin Zhu"]
+  publisher: "Asian Health Care Journal"
+  date: 2013-01-01
+  type: paper

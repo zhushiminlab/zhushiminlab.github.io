@@ -16,8 +16,8 @@ Our publications focus on the overall well-being of children and adolescents.<br
 {% include section.html %}
 
 
-## Accepted Papers
-{% include list.html data="citations" component="citation" filters="status: Accepted" style="rich" %}
+## Featured Papers
+{% include list.html data="citations" component="citation" filters="status: Featured" style="rich" section="featured" %}
 
 ## All
 
@@ -25,4 +25,4 @@ Our publications focus on the overall well-being of children and adolescents.<br
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" section="all" %}

@@ -17,7 +17,7 @@ load_dotenv()
 error = False
 
 # output citations file
-output_file = "_data/citations.yaml"
+output_file = "_data/citations_generated.yaml"
 
 
 log()
@@ -28,7 +28,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar", "pubmed", "orcid", "sources"]
+plugins = ["google-scholar", "pubmed", "sources"]
 
 # loop through plugins
 for plugin in plugins:
