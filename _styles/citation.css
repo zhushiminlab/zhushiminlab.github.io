@@ -85,10 +85,17 @@
   margin: 0;
 }
 
+/*
 @container (max-width: 800px) {
   .citation {
     flex-direction: column;
   }
+
+  .citation-image {
+    width: unset;
+    height: $thumb-size;
+  }
 }
+*/
 
 /*# sourceMappingURL=citation.css.map */
