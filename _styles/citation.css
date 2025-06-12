@@ -89,10 +89,6 @@
   .citation {
     flex-direction: column;
   }
-  .citation-image {
-    width: unset;
-    height: 180px;
-  }
 }
 
 /*# sourceMappingURL=citation.css.map */
