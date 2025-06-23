@@ -12,6 +12,10 @@ Our publications focus on the overall well-being of children and adolescents.<br
 我們的文章關注並致力於提升兒童與青少年的整體健康。
 
 </center>
+<!-- Roadmap Image -->
+<div style="text-align: center; margin: 40px 0;">
+  <img src="{{ '/images/roadmap.png' | relative_url }}" alt="Lab Research Roadmap" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+</div>
 
 {% include section.html %}
 
