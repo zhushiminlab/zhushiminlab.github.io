@@ -114,6 +114,14 @@ $wrap: 800px;
   line-height: 1.6;     /* 行距 */
 }
 
+.citation-description .list-heading {
+  font-weight: bold;
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
+  padding-left: 0em; // 与 ul 对齐
+  color: var(--dark-gray);
+}
+
 
 /*
 @container (max-width: #{$wrap}) {
