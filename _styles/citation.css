@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .citation-container {
   container-type: inline-size;
 }
@@ -83,6 +84,27 @@
   display: inline-flex;
   justify-content: flex-start;
   margin: 0;
+}
+
+.citation-description li {
+  line-height: 1.2; /* 默认太宽可调小些 */
+  margin-bottom: 2.5px; /* 缩小段间距 */
+}
+
+.citation-description ul {
+  padding-left: 0.8em; /* 控制整体缩进距离 */
+  margin: 0.3em 0;
+  list-style-type: disc;
+}
+
+.citation-description ul ul {
+  padding-left: 1.2em; /* 子列表进一步缩进 */
+  list-style-type: circle;
+}
+
+.citation-description li {
+  margin-bottom: 0.3em; /* 控制每个 bullet 的间距 */
+  line-height: 1.6; /* 行距 */
 }
 
 /*
