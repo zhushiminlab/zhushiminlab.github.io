@@ -21,9 +21,9 @@ Our lab has trained a group of people who will always remain part of th extended
 
 {% capture content %}
 
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, active: true" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: research assistant" %}
+{% include list.html data="members" component="portrait" filters="role: research assistant, active: true" %}
 {% include list.html data="members" component="portrait" filters="role: designer" %}
 
 {% endcapture %}
@@ -39,8 +39,8 @@ Our lab has trained a group of people who will always remain part of th extended
 以下是對數字健康研究實驗室作出特別貢獻的人員，他們的努力對我們至關重要。</div>
 
 <ul>
+    <li>Postdoctoral Researcher 博士後研究員：Di Qi 齊迪</li>
     <li>Voice Actress 配音員: Kong Ming Shan Emma 江銘珊，Liu Shuting 劉舒婷</li>
-    <li>Research Assistant 研究助理: Zhuang Yanqiong 莊燕瓊</li>
+    <li>Research Assistant 研究助理: An Xi 席安，Zhuang Yanqiong 莊燕瓊</li>
     <li>Undergraduate Trainee 本科實習生: Zhao Ye 趙燁， Chun Ngai Lam 林峻毅 </li>
-
 </ul>

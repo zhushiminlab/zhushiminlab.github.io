@@ -4,7 +4,7 @@ image: images/jamie.png
 role: research assistant
 group: alum
 links:
-
+active: false  
 ---
 
 An Xi is a master of arts student of guidance and counseling in the Hong Kong Polytechnic University. She graduated from Sarah Lawrence College in USA with a B.A. degree in dual concentration: visual arts and Asian studies. Jamie’s primary research goal is to investigate and design brief digital intervention to reduce the level of stress and anxiety, and increase self-efficacy for beginning counselors and social workers. Jamie is also interested in the practice of career counseling and education as a form of intervention to improve mental health in adolescents.<br/>

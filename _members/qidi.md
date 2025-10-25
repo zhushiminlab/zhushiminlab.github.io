@@ -4,7 +4,7 @@ image: images/Qidi.png
 role: postdoc
 group: alum
 links:
-  
+active: false  
 ---
 
 Di QI is a postdoctoral fellow in the Department of Applied Social Sciences at the Hong Kong Polytechnic University. She completed her Bachelor's degree in Clinical Medicine from Tianjin Medical University and her Master's in Cognitive Neuroscience from Beijing Normal University. She got her Ph.D in Psychology at the University of Hong Kong and a second Master’s in Counselling from the City University of Hong Kong. Qi Di is interested in mental health and wellness. Her current research focus is longitudinal relationships between psychological factors and mental health, and intervention to promote youths’ mental wellbeing.<br/>
